@@ -1,1 +1,1 @@
-# privacy-policy
+No data is stored.
