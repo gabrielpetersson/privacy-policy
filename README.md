@@ -1,1 +1,1 @@
-No data is stored.
+No data is collected nor stored.
